@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 보는 것으로만 이해하려고 하지 말고 직접 해보면서 이해하기<br>
 생각한건 생각으로 끝내려하지 말고, 만들어보기
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=smw0807&show_icons=true&theme=radical)](https://github.com/yoycode/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=smw0807&show_icons=true&theme=cobalt)]
