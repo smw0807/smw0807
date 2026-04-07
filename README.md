@@ -69,7 +69,7 @@
 |----------|------|-----------|------|
 | **FreelanceHub** | 프리랜서 프로젝트·수익 관리 플랫폼 | Nuxt4, NestJS, PostgreSQL | [배포](https://freelance-hub-indol.vercel.app/) |
 | **PUBG Stats Dashboard** | PUBG 전적 분석 대시보드 | Next.js 15, Tailwind CSS, PUBG API | [배포](https://pubg-stats-dashboard.vercel.app/) |
-| **PUBG API** | PUBG API 서버 | NestJS, PUBG API | [배포](https://pubg-stats-dashboard.vercel.app/) |
+| **PUBG API** | PUBG API 서버 | Nest.js, PUBG API | [배포](https://pubg-stats-dashboard.vercel.app/) |
 | **Maple M Tracker** | 메이플스토리M 캐릭터 조회 | Next.js 15, NEXON Open API | [배포](https://maple-m-tracker.vercel.app/) |
 | **N-Chat** | 실시간 채팅 사이트 | Next.js 15, NestJS, Socket.io | [GitHub](https://github.com/smw0807/n-chat) |
 | **Everyone's Auction House** | 실시간 경매 사이트 | React, NestJS, Socket.io, Prisma | [GitHub](https://github.com/smw0807/eah) |
