@@ -2,7 +2,7 @@
 
 # 안녕하세요, 송민우입니다 👋
 
-### *"다른 사람들이 이해하기 쉬운 코드를 짜자"*
+### *"좋은 코드를 만들고 싶은 개발자 송민우입니다."*
 
 [![Blog](https://img.shields.io/badge/Blog-minu0807.tistory.com-orange?style=flat-square&logo=tistory)](https://minu0807.tistory.com/)
 [![Chatbot](https://img.shields.io/badge/Chatbot-Claude_AI-blueviolet?style=flat-square&logo=anthropic)](https://chatbot-olive-gamma-96.vercel.app/)
@@ -68,7 +68,7 @@
 | 프로젝트 | 설명 | 기술 스택 | 링크 |
 |----------|------|-----------|------|
 | **FreelanceHub** | 프리랜서 프로젝트·수익 관리 플랫폼 | Nuxt4, NestJS, PostgreSQL | [배포](https://freelance-hub-indol.vercel.app/) |
-| **PUBG Stats Dashboard** | PUBG 전적 분석 대시보드 | Next.js 15, Tailwind CSS | [배포](https://pubg-stats-dashboard.vercel.app/) |
+| **PUBG Stats Dashboard** | PUBG 전적 분석 대시보드 | Next.js 15, Tailwind CSS, PUBG API | [배포](https://pubg-stats-dashboard.vercel.app/) |
 | **Maple M Tracker** | 메이플스토리M 캐릭터 조회 | Next.js 15, NEXON Open API | [배포](https://maple-m-tracker.vercel.app/) |
 | **N-Chat** | 실시간 채팅 사이트 | Next.js 15, NestJS, Socket.io | [GitHub](https://github.com/smw0807/n-chat) |
 | **Everyone's Auction House** | 실시간 경매 사이트 | React, NestJS, Socket.io, Prisma | [GitHub](https://github.com/smw0807/eah) |
