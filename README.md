@@ -83,7 +83,7 @@
 
 <div align="center">
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=smw0807&show_icons=true&theme=cobalt)](https://github.com/smw0807)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=smw0807&hide=contribs,prs)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smw0807&layout=compact&theme=cobalt)](https://github.com/smw0807)
 
