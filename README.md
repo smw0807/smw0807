@@ -67,15 +67,17 @@
 
 | 프로젝트 | 설명 | 기술 스택 | 링크 |
 |----------|------|-----------|------|
-| **FreelanceHub** | 프리랜서 프로젝트·수익 관리 플랫폼 | Nuxt4, NestJS, PostgreSQL | [배포](https://freelance-hub-indol.vercel.app/) |
+| **YouTube Timeline Memo** | 유튜브 타임라인 메모 서비스 | Next.js 16, Firebase | [배포](https://www.yttm.kr/) |
+| **PUBG Your Team** | 배틀그라운드 팀 구하기 | Nuxt3, Firebase | [배포](https://pubg-your-team.vercel.app/) |
 | **PUBG Stats Dashboard** | PUBG 전적 분석 대시보드 | Next.js 15, Tailwind CSS, PUBG API | [배포](https://pubg-stats-dashboard.vercel.app/) |
 | **PUBG API** | PUBG API 서버 | Nest.js, PUBG API | [GitHub](https://github.com/smw0807/pubg-api) |
+| **PUBG Kit** | PUBG REST API SDK | TypeScript, Node.js, NestJS | [GitHub](https://github.com/smw0807/pubg-kit) |
 | **Maple M Tracker** | 메이플스토리M 캐릭터 조회 | Next.js 15, NEXON Open API | [배포](https://maple-m-tracker.vercel.app/) |
 | **N-Chat** | 실시간 채팅 사이트 | Next.js 15, NestJS, Socket.io | [GitHub](https://github.com/smw0807/n-chat) |
 | **Everyone's Auction House** | 실시간 경매 사이트 | React, NestJS, Socket.io, Prisma | [GitHub](https://github.com/smw0807/eah) |
-| **PUBG Your Team** | 배틀그라운드 팀 구하기 | Nuxt3, Firebase | [배포](https://pubg-your-team.vercel.app/) |
 | **Chatbot** | Claude API 기반 개인 챗봇 | Next.js, NestJS, Anthropic | [배포](https://chatbot-olive-gamma-96.vercel.app/) |
-| **YouTube Timeline Memo** | 유튜브 타임라인 메모 서비스 | Next.js 16, Firebase | [배포](https://www.yttm.kr/) |
+| **FreelanceHub** | 프리랜서 프로젝트·수익 관리 플랫폼 | Nuxt4, NestJS, PostgreSQL | [배포](https://freelance-hub-indol.vercel.app/) |
+
 
 ---
 
