@@ -76,7 +76,7 @@
 | **N-Chat** | 실시간 채팅 사이트 | Next.js 15, NestJS, Socket.io | [GitHub](https://github.com/smw0807/n-chat) |
 | **Everyone's Auction House** | 실시간 경매 사이트 | React, NestJS, Socket.io, Prisma | [GitHub](https://github.com/smw0807/eah) |
 | **Chatbot** | Claude API 기반 개인 챗봇 | Next.js, NestJS, Anthropic | [배포](https://chatbot-olive-gamma-96.vercel.app/) |
-| **FreelanceHub** | 프리랜서 프로젝트·수익 관리 플랫폼 | Nuxt4, NestJS, PostgreSQL | [배포](https://freelance-hub-indol.vercel.app/) |
+| **FreelanceHub** | 프리랜서 프로젝트·수익 관리 플랫폼 | Nuxt4, NestJS, PostgreSQL | [GitHub](https://github.com/smw0807/freelance-hub) |
 
 
 ---
