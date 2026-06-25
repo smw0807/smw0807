@@ -77,6 +77,8 @@
 | **Everyone's Auction House** | 실시간 경매 사이트 | React, NestJS, Socket.io, Prisma | [GitHub](https://github.com/smw0807/eah) |
 | **Chatbot** | Claude API 기반 개인 챗봇 | Next.js, NestJS, Anthropic | [배포](https://chatbot-olive-gamma-96.vercel.app/) |
 | **FreelanceHub** | 프리랜서 프로젝트·수익 관리 플랫폼 | Nuxt4, NestJS, PostgreSQL | [GitHub](https://github.com/smw0807/freelance-hub) |
+| **SafeEats** | 판매 중지 음식물 조회 서비스 | Next.js 15, NestJS, RabbitMQ, PostgreSQL | [GitHub](https://github.com/smw0807/safe-eats) |
+| **RedisEyes** | Redis GUI | Vite, VueJS | [GitHub](https://github.com/smw0807/redis-eye) |
 | **Home Network Monitoring** | 홈 네트워크 모니터링 대시보드 | Nuxt4, NestJS, ElasticSearch | [Github](https://github.com/smw0807/home-network-monitoring) |
 
 
