@@ -80,6 +80,7 @@
 | **SafeEats** | 판매 중지 음식물 조회 서비스 | Next.js 15, NestJS, RabbitMQ, PostgreSQL | [GitHub](https://github.com/smw0807/safe-eats) |
 | **RedisEyes** | Redis GUI | Vite, VueJS | [GitHub](https://github.com/smw0807/redis-eye) |
 | **Home Network Monitoring** | 홈 네트워크 모니터링 대시보드 | Nuxt4, NestJS, ElasticSearch | [Github](https://github.com/smw0807/home-network-monitoring) |
+| **NestJS ElasticSearch KIT** | NestJS전용 ElasticSearch NPM 패키지 | TypeScript, Node.js, NestJS | [Github](https://github.com/smw0807/nestjs-es-kit) |
 
 
 ---
