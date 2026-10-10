@@ -72,7 +72,7 @@
 | **PUBG Stats Dashboard** | PUBG 전적 분석 대시보드 | Next.js 15, Tailwind CSS, PUBG API | [배포](https://pubg-stats-dashboard.vercel.app/) |
 | **PUBG API** | PUBG API 서버 | Nest.js, PUBG API | [GitHub](https://github.com/smw0807/pubg-api) |
 | **PUBG Kit** | PUBG REST API SDK | TypeScript, Node.js, NestJS | [GitHub](https://github.com/smw0807/pubg-kit) |
-| **Maple M Tracker** | 메이플스토리M 캐릭터 조회 | Next.js 15, NEXON Open API | [배포](https://maple-m-tracker.vercel.app/) |
+| **Maple M Tracker** | 메이플스토리M 캐릭터 조회 | Next.js 15, NEXON Open API | [GitHub](https://github.com/smw0807/maple-m-tracker) |
 | **N-Chat** | 실시간 채팅 사이트 | Next.js 15, NestJS, Socket.io | [GitHub](https://github.com/smw0807/n-chat) |
 | **Everyone's Auction House** | 실시간 경매 사이트 | React, NestJS, Socket.io, Prisma | [GitHub](https://github.com/smw0807/eah) |
 | **Chatbot** | Claude API 기반 개인 챗봇 | Next.js, NestJS, Anthropic | [배포](https://chatbot-olive-gamma-96.vercel.app/) |
